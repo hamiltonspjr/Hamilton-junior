@@ -11,5 +11,8 @@
 </p>
 <br>
 <img  src="https://github-readme-stats.vercel.app/api?username=Hamilton-junior&show_icons=true" alt="Hamilton Junior"/> 
-
-<a href="https://www.linkedin.com/in/hamilton-junior-34451018a/">Meu linkedin para contato </a>
+<p>
+    <a target="_blank" href="https://www.linkedin.com/in/hamilton-junior-34451018a/">
+    <img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+</p>
