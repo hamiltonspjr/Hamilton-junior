@@ -12,6 +12,6 @@
 <br>
 <img  src="https://github-readme-stats.vercel.app/api?username=Hamilton-junior&show_icons=true" alt="Hamilton Junior"/>
 
-![Badge](https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=for-the-badge&logo=ghost&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhamilton-junior-34451018a%2F)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hamilton-junior-34451018a/)
 
-![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Linkedin&logo=Linkedin&logoColor=black&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhamilton-junior-34451018a%2F)
+[<img src="https://img.shields.io/badge/https://neilpatel.com/wp-content/uploads/2017/05/LinkedIn.jpg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hamilton-junior-34451018a/)
