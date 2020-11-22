@@ -10,9 +10,8 @@
     </ul>
 </p>
 <br>
-<img  src="https://github-readme-stats.vercel.app/api?username=Hamilton-junior&show_icons=true" alt="Hamilton Junior"/> 
-<p>
-    <a target="_blank" href="https://www.linkedin.com/in/hamilton-junior-34451018a/">
-    <img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-</p>
+<img  src="https://github-readme-stats.vercel.app/api?username=Hamilton-junior&show_icons=true" alt="Hamilton Junior"/>
+
+![Badge](https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=for-the-badge&logo=ghost&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhamilton-junior-34451018a%2F)
+
+![Twitter URL](https://img.shields.io/twitter/url?color=black&label=Linkedin&logo=Linkedin&logoColor=black&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhamilton-junior-34451018a%2F)
