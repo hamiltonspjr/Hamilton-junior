@@ -1,6 +1,7 @@
 <h1 align="center">Olá :smiley:</h1>
 
 <p> Meu nome é Hamilton de Souza. Atualmente faço estágio de desenvolvimento web.</p>
+<p>Tenho como foco o front-end, por isso estou estudando Vue.js</p>
 <div>
   <a href="https://github.com/Hamilton-junior">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=Hamilton-junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,7 +13,7 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img align="center" alt="sass" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vue.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 </div>
 <br>
   <h2>Contato</h2>
