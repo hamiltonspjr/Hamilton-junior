@@ -3,7 +3,7 @@
 <p> Meu nome é Hamilton de Souza</p>
 <p> Sou estudante de Tecnologia em Sistemas para Internet e faço estágio de desenvolvimento web utilizando HTML, CSS, Javascript e Wordpress. </p>
 <p>Tenho como foco total no front-end por isso estudo suas tecnologias.</p>
-<p> Meu objetivo no momento é conseguir uma vaga como desenvolvedor front-end junior para desenvolver cada vez mais minhas habilidades atuando em projetos reais.</p>
+<p> Meu objetivo no momento é conseguir uma vaga como desenvolvedor front-end junior para desenvolver cada vez mais minhas habilidades atuando em projetos que impactam a vida das pessoas.</p>
 <div>
   <a href="https://github.com/Hamilton-junior">
   <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=Hamilton-junior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
