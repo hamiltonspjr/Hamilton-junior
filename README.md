@@ -1,7 +1,7 @@
 
 <h1 align="left">Eae <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Meu nome é Hamilton de Souza</h1>
 
-- :books:Sou estudante de Tecnologia em Sistemas para Internet
+- :books: Sou estudante de Tecnologia em Sistemas para Internet
 - 👨‍💻 Faço estágio de desenvolvimento web em Propulsão Marketing de Performance
 
 ## 🛠 &nbsp;Tecnologias
